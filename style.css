@@ -1,0 +1,234 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.name {
+    min-width: 48%;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 140%;
+}
+
+.header {
+    background: #ffffff;
+}
+
+.news {
+    min-width: 11%;
+    display: inline-block;
+    white-space: nowrap;
+    color: black;
+    font-size: 130%;
+    position: relative;
+}
+
+.students {
+    min-width: 11%;
+    display: inline-block;
+    white-space: nowrap;
+    color: #000;
+    font-size: 130%;
+}
+
+.about {
+    min-width: 13%;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 130%;
+}
+
+.abit {
+    min-width: 14%;
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 130%;
+}
+
+.footer {
+    background: white;
+}
+
+.nov {
+    font-size: 200%;
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.first {
+    background: #999999;
+    /*height: 620px;*/
+    background-size: auto;
+}
+
+.pic {
+    border-radius: 30px;
+
+    min-width: 50%;
+    max-width: 75%;
+    height: auto;
+}
+
+.pc {
+    display: inline-block;
+    width: 58%;
+    vertical-align: top;
+}
+
+.sept {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    font-size: 80%;
+    height: 670px;
+}
+
+.second {
+    background: rgb(85, 85, 85);
+    height: auto;
+    background-size: cover;
+}
+
+.picc {
+    max-width: 60%;
+    min-width: 10%;
+    height: auto;
+}
+
+.fir {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    font-size: 120%;
+    color: #ffffff;
+
+}
+
+.sec {
+    display: inline-block;
+    width: 33%; 
+    text-align: center;
+    font-size: 120%;
+    color: #ffffff;
+}
+
+.th {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    font-size: 120%;
+    color: #ffffff;
+}
+
+.secname {
+    font-size: 200%;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #ffffff;
+}
+
+.thname {
+    font-size: 200%;
+    padding-top: 20px;
+
+}
+
+.thtext {
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 120%;
+}
+
+.thpic {
+    width: 48%;
+    display: inline-block;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.thirdpic {
+    max-width: 110%;
+    min-width: 10%;
+    height: auto;
+}
+
+.third {
+    background: #ffffff;
+    height: 750px;
+    text-align: center;
+}
+
+.more {
+    text-align: left;
+    font-size: 120%;
+}
+
+.moretext {
+    padding-top: 30px;
+    font-size: 120%;
+}
+
+a {
+    color: #000;
+}
+
+.end {
+    background: rgb(124, 124, 124);
+    height: 750px;
+}
+
+.fone {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+
+.foneone {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 40px;
+}
+
+.fonetwo {
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.ftwo {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.ftwoone {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-right: 180px;
+}
+
+.ftwotwo {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 260px;
+}
+
+.endth {
+    color: #522323
+}
+
+.kd {
+    font-size: 120%;
+}
